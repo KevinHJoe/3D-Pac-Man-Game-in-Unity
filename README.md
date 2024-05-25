@@ -2,6 +2,10 @@
 
 Welcome to my 3D Pac-Man game project! This is a modern take on the classic arcade game, Pac-Man, developed using Unity and C#.
 
+## **Play the Game**
+
+You can play the 3D Pac-Man game on itch.io. Here's the link: Play on https://travelsbyfire.itch.io/pac-man-3d
+
 ## **About the Game**
 
 In this game, you control Pac-Man, guiding him through a maze filled with pellets. The objective is to consume all the pellets while avoiding the ghosts that roam the maze. If Pac-Man consumes a power pellet, the ghosts temporarily become vulnerable and can be eaten by Pac-Man.
