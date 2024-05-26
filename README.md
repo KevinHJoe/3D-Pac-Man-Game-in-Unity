@@ -4,7 +4,7 @@ Welcome to my 3D Pac-Man game project! This is a modern take on the classic arca
 
 ## **Play the Game**
 
-You can play the 3D Pac-Man game on itch.io. Here's the link: Play on itch.io
+You can play the 3D Pac-Man game on itch.io. Here's the link: Play on https://travelsbyfire.itch.io/pac-man-3d
 
 ## **About the Game**
 
